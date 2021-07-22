@@ -4,7 +4,7 @@ import collections
 
 
 def empall():
-    conn = pymysql.connect(host='database-2.crhbz2ksmfvh.ap-northeast-2.rds.amazonaws.com',
+    conn = pymysql.connect(host='???',
                             user='admin',
                             password='playdata',
                             db='playdata',
